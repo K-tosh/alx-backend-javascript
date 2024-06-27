@@ -57,3 +57,4 @@ class Pricing {
 }
 
 export default Pricing;
+
